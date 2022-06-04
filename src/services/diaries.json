@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"date": "2017-01-01",
+		"weather": "sunny",
+		"visibility": "good",
+		"comment": "good day"
+	},
+	{
+		"id": 2,
+		"date": "2017-01-02",
+		"weather": "rainy",
+		"visibility": "good",
+		"comment": "everything went as planned"
+	},
+	{
+		"id": 3,
+		"date": "2017-01-03",
+		"weather": "sunny",
+		"visibility": "good",
+		"comment": "good day"
+	},
+	{
+		"id": 4,
+		"date": "2017-01-04",
+		"weather": "sunny",
+		"visibility": "good",
+		"comment": "good day"
+	}
+]
