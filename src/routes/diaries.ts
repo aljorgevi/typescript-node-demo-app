@@ -1,13 +1,13 @@
-import express from 'express';
+import express from 'express'
 
-const diariesRouter = express.Router();
+const diariesRouter = express.Router()
 
 diariesRouter.get('/', (_, response) => {
-	response.send('Fetching all diaries');
-});
+  response.send('Fetching all diaries')
+})
 
 diariesRouter.post('/', (_, response) => {
-	response.send('Saving a diary');
-});
+  response.send('Saving a diary')
+})
 
-export default diariesRouter;
+export default diariesRouter
