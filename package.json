@@ -1,0 +1,16 @@
+{
+	"name": "typescript",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"tsc": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Jorge Mena <jormencar@yahoo.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^4.7.3"
+	}
+}
